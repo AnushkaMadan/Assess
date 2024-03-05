@@ -1,0 +1,11 @@
+commit b11bc8bd623c6895d07154e216c26e8bc34f40c9
+Author: Anushka <anushkamadan8@gmail.com>
+Date:   Tue Mar 5 16:45:00 2024 +0530
+
+    git ignore initiated
+
+commit 964d3eb1b513bcf646d2928a4cd42e6dfe11d22b
+Author: Anushka <anushkamadan8@gmail.com>
+Date:   Tue Mar 5 16:38:11 2024 +0530
+
+    first commit
